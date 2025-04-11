@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import heroImage from '../assets/heroImage.jpeg'; 
+import heroImage from './assets/heroImage.jpeg'; 
 
 function Heroimg() {
 
