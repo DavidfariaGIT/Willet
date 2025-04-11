@@ -6,7 +6,7 @@ function ImageOne() {
           <img className="w-4/4" src="/src/assets/cb061929ab51d1e0bde75636b581a3eee071ba31-2400x3000.jpeg" />
         </div>
         <div className="card bg-base-300 rounded-box grid h-20 "></div>
-        <img className="w-1/3" src="/src/assets/eb363b30e536cf875c898563a7beb1193b6367c6-2400x3000.jpeg" />
+        <img className="w-1/3" src="/src./assets/eb363b30e536cf875c898563a7beb1193b6367c6-2400x3000.jpeg" />
       </div>
       <div className="bg-orange-50 mt-57 flex flex-row justify-start lg:mt-0">
         <a className="btn pt-2 pl-6 btn-m btn-ghost text-red-950 font-extrabold md:text-md md:z-50 md:pt-30 md:ml-153 lg:ml-290 lg:pt-5 border-none shadow-none cursor-pointer lg:pl-0 hover:bg-orange-50">WT-G1</a>

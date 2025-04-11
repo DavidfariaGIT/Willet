@@ -5,7 +5,7 @@ function Heroimg() {
         <div
           className="hero min-h-200 md:max-w-150 md:mx-auto bg-orange-50 lg:max-w-240 lg:min-h-300"
           style={{
-            backgroundImage: "src/assets/f3e4bec288d1545a58cb2e711d46fb7dfceae5f8-2400x3000.jpeg",
+            backgroundImage: "url(src/assets/f3e4bec288d1545a58cb2e711d46fb7dfceae5f8-2400x3000.jpeg)",
           }}>
           <h1 className="absolute left-5 top-16 text-8xl text-red-950 font-extrabold md:text-[160px] md:py-90 md:px-5 lg:text-[350px] lg:py-65">willet</h1>
         </div>
