@@ -1,6 +1,6 @@
 
 import { useState } from 'react';
-import './assets/f3e4bec288d1545a58cb2e711d46fb7dfceae5f8-2400x3000.jpeg';
+import '../assets/f3e4bec288d1545a58cb2e711d46fb7dfceae5f8-2400x3000.jpeg';
 
 
 function Heroimg() {
