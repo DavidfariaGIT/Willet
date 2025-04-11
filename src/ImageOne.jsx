@@ -20,7 +20,7 @@ function ImageOne() {
 
       <div className="bg-orange-50">
         <img
-          className="max-h-200 mt-6.5 md:max-h-183 md:relative md:ml-50 lg:mt-168.5 lg:max-h-300 lg:ml-95 lg:mb-30"
+          className="max-h-200 mt-6.5 md:max-h-183 md:relative md:ml-50 lg:mt-168.5 lg:max-h-297.5 lg:ml-95 lg:mb-30"
           src={popoDiningChair}
           alt="Popo Dining Chair"
         />
@@ -28,7 +28,7 @@ function ImageOne() {
       <div className="bg-orange-50">
         <div className="bg-orange-50 flex flex-row justify-start">
           <a className="btn pt-2 pl-6 btn-m btn-ghost text-red-950 font-extrabold md:text-md  md:z-50 md:relative md:bottom-12 lg:bottom-45 border-none shadow-none cursor-pointer bg-orange-50 lg:text-lg">WT-G1</a>
-          <a className="btn pt-6 pb-21 btn-m btn-ghost text-red-950 font-extrabold md:text-md md:pb-0 md:pt-0 md:z-50 md:relative md:bottom-11 lg:bottom-45 border-none shadow-none cursor-pointer lg:pb-0 lg:text-lg hover:bg-orange-50">Popo Dining Chair</a>
+          <a className="btn pt-6 pb-21 btn-m btn-ghost text-red-950 font-extrabold md:text-md md:pb-0 md:pt-0 md:z-50 md:relative md:bottom-11 lg:bottom-43 lg:pl-10 border-none shadow-none cursor-pointer lg:pb-0 lg:text-lg hover:bg-orange-50">Popo Dining Chair</a>
         </div>
       </div>
     </section>
