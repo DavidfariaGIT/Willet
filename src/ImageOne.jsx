@@ -17,7 +17,7 @@ function ImageOne() {
       <div className="bg-orange-50">
         <img
           className="max-h-200 mt-6.5 md:max-h-183 md:relative md:ml-50 lg:mt-168.5 lg:max-h-300 lg:ml-95 lg:mb-30"
-          src="./assets/87ab0c507bf346ef6ae58ed29e845c368f4ccb1e-2400x3000.jpeg"
+          src=".git/assets/87ab0c507bf346ef6ae58ed29e845c368f4ccb1e-2400x3000.jpeg"
           alt="Product image"
         />
       </div>
