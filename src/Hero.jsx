@@ -1,4 +1,10 @@
+
+import { useState } from 'react';
+import './assets/f3e4bec288d1545a58cb2e711d46fb7dfceae5f8-2400x3000.jpeg';
+
+
 function Heroimg() {
+
   return (
     <>
       <div className="bg-orange-50 w-full">
